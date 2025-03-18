@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Abhay-this-side.github.io/port-folio/static/css/main.4d5f6b7c.css",
+    "main.js": "/Abhay-this-side.github.io/port-folio/static/js/main.13654f7c.js",
+    "static/media/hospital.png": "/Abhay-this-side.github.io/port-folio/static/media/hospital.061ad97db362ff71fdff.png",
+    "static/media/image.png": "/Abhay-this-side.github.io/port-folio/static/media/image.d96eee9a5499530a538e.png",
+    "static/media/resume.pdf": "/Abhay-this-side.github.io/port-folio/static/media/resume.37491cb149377accb72e.pdf",
+    "static/media/interview.png": "/Abhay-this-side.github.io/port-folio/static/media/interview.4f8bac59beb3def45007.png",
+    "static/media/telegram.png": "/Abhay-this-side.github.io/port-folio/static/media/telegram.493390b6ec3bc5631494.png",
+    "static/media/linkedin.png": "/Abhay-this-side.github.io/port-folio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/ui-design.png": "/Abhay-this-side.github.io/port-folio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/Abhay-this-side.github.io/port-folio/index.html",
+    "main.4d5f6b7c.css.map": "/Abhay-this-side.github.io/port-folio/static/css/main.4d5f6b7c.css.map",
+    "main.13654f7c.js.map": "/Abhay-this-side.github.io/port-folio/static/js/main.13654f7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d5f6b7c.css",
+    "static/js/main.13654f7c.js"
+  ]
+}
